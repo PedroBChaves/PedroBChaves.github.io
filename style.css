@@ -19,7 +19,7 @@ body {
 h3 {
     color: #185ADB;
     text-align: center;
-    margin: 50px;
+    margin-bottom: 30px;
 }
 
 a {
@@ -31,16 +31,12 @@ a {
 
 a img{
     border-radius: 50%;
-    width: 35px;
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 0 auto;
+    width: 80px;
 }
 
 ul {
-    margin: 0 auto;
-    width: 60%;
+    list-style: none;
+    text-align: center;
 }
 
 li{
@@ -52,6 +48,3 @@ li{
     text-align: center;
 }
 
-.skills{
-    width: 10%;
-}
