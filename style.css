@@ -35,8 +35,10 @@ a img{
 }
 
 ul {
-    list-style: none;
-    text-align: center;
+    display: block;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
 }
 
 li{
@@ -46,5 +48,9 @@ li{
 .socials {
     margin: 0 auto;
     text-align: center;
+}
+
+.skills {
+    width: 100px;
 }
 
