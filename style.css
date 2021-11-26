@@ -13,7 +13,13 @@ body {
 }
 
 .description {
-    text-align: center;  
+    display: flex;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    height: 70px;
+    justify-content: center;
+    text-align: center;
 }
 
 h3 {
